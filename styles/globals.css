@@ -13,4 +13,11 @@ a {
 
 * {
   box-sizing: border-box;
+  margin: 0;
+}
+
+
+.container{
+  background: rgb(85,24,128);
+  background: linear-gradient(45deg, rgba(85,24,128,1) 7%, rgba(53,21,216,1) 52%, rgba(8,187,255,1) 100%); 
 }
